@@ -1,0 +1,67 @@
+# PROMPT ENGINEERING FOR MARKETING
+----------------------------------
+
+* Welcome to Prompt Engineering for Marketing
+---------------------------------------------
+Whether you are a marketing professional or just have a product to market, AI models can help you plan and execute an effective marketing strategy.
+
+In this lesson, we’ll explore different ways AI language models like ChatGPT can be used for marketing:
+
+	. developing a digital marketing strategy
+
+	. writing product descriptions and other copy
+
+	. planning a social media campaign
+
+While ChatGPT is a powerful tool for generating content, we’ll also discuss common pitfalls when using AI, including
+
+	. inaccuracies or hallucinations
+
+	. copyright and plagiarism
+
+	. ethical issues like bias
+
+	. formatting and other structural errors
+
+Throughout, we’ll focus on prompt engineering: the art of iteratively designing prompts that will help ChatGPT generate output tailored to your specific marketing tasks.
+
+With effective prompt engineering, you’ll be able to use the best of both human and artificial intelligence to support your brand and products.
+
+Let’s get started!
+
+* Instructions
+--------------
+Throughout the course, we’ll use FakeGPT, a ChatGPT simulator. All sample responses delivered by FakeGPT are actual responses received from ChatGPT, not responses written by us. In 
+addition, note that while we are focusing on ChatGPT, the techniques we teach will work with most other large language models, like Google Bard.
+
+We’ve loaded an example of FakeGPT in the learning environment to the right. There are a couple sample prompts at the bottom. Try sending each one and see what FakeGPT returns!
+
+Make sure to click the Send button in the workspace to send your message! It looks like a paper airplane
+
+Ex:
+---
+- How can AI help me with marketing?
+
+AI can provide significant benefits to marketing by improving efficiency, personalization, and decision-making.
+
+- Can ChatGPT help me personalize marketing copy?
+
+ChatGPT can be a valuable tool in personalizing marketing copy by generating tailored content for different customer segments and scenarios.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
